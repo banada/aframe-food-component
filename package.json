@@ -1,6 +1,6 @@
 {
   "name": "aframe-food-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn any picture of food into a 3D object for A-Frame",
   "main": "index.js",
   "unpkg": "dist/aframe-food-component.min.js",
