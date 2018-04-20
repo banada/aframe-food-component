@@ -3,10 +3,7 @@
 [![Version](http://img.shields.io/npm/v/aframe-food-component.svg?style=flat-square)](https://npmjs.org/package/aframe-food-component)
 [![License](http://img.shields.io/npm/l/aframe-food-component.svg?style=flat-square)](https://npmjs.org/package/aframe-food-component)
 
-```html
-<img src="food_original.jpg" style="max-width: 25%; border-radius: 8px; margin: 0 auto; float: right;"></img>
-<img src="food_vr.jpg" style="max-width: 25%; border-radius: 8px; margin: 0 auto; float: right;></img>
-```
+![](food_original.jpg) ![](food_vr.jpg)
 
 Turn any picture of food into a 3D object for A-Frame <a href="https://banada.github.io/webvr/aframe-food-component"></a>
 
