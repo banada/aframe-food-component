@@ -19,7 +19,7 @@ Turn any picture of food into a 3D object for [A-Frame](https://aframe.io).
 <a-entity food src="yourfoodpicture.jpg"></a-entity>
 ```
 
-You can crop an image for use with this component using [this tool](https://banada.github.io/webvr/aframe-food-component)
+You can crop an image for use with this component using [this tool](https://banada.github.io/webvr/aframe-food-component).
 
 Install and use by directly including the [browser files](dist):
 
