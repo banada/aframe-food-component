@@ -29,8 +29,8 @@ AFRAME.registerComponent('food', {
     cylinder.setAttribute('position', '0 0.15 0');
 
     let bowl = document.createElement('a-obj-model');
-    bowl.setAttribute('src', 'https://github.com/banada/aframe-food-component/bowl.obj');
-    bowl.setAttribute('mtl', 'https://github.com/banada/aframe-food-component/bowl.mtl');
+    bowl.setAttribute('src', 'https://unpkg.com/aframe-food-component/bowl.obj');
+    bowl.setAttribute('mtl', 'https://unpkg.com/aframe-food-component/bowl.mtl');
     bowl.setAttribute('scale', '0.0062 0.0062 0.0062');
 
     self.el.appendChild(cylinder);
